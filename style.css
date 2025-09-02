@@ -7,6 +7,26 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  color: black;
+  text-align: center;
+}
+
+
+a:link, a:visited {
+  background-color: rgb(119, 62, 62);
+  color: white;
+  padding: 14px 25px;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+a:hover, a:active {
+  background-color: rgb(214, 144, 144);
+}
+
 p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
