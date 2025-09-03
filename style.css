@@ -17,10 +17,12 @@ a:link, a:visited {
   background-color: rgb(119, 62, 62);
   color: white;
   padding: 14px 25px;
-  margin: 0 auto;
+  margin-left: 10%;
+  margin-right: 10%; 
   text-align: center;
   text-decoration: none;
   display: block;
+  font-family: Georgia;
 }
 
 a:hover, a:active {
@@ -28,7 +30,7 @@ a:hover, a:active {
 }
 
 p {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia;
   font-size: 20px;
 }
 
